@@ -47,9 +47,6 @@ Choosing the optimal number of topics (`k`) ensures meaningful and interpretable
 - ➢ **Perplexity**: -17.92  
 - ➢ **Coherence Score**: 0.640
 
-## Interactive LDA Visualization
-
-To view the interactive LDA visualization, [click here](C:\Users\Anil\Downloads\Screenshot 2024-12-02 164538.png).
 
   
 
@@ -114,13 +111,5 @@ To view the interactive LDA visualization, [click here](C:\Users\Anil\Downloads\
 
 ---
 
-### Final Visualization
-For interactive visualization, use `pyLDAvis`:
-```python
-import pyLDAvis
-import matplotlib.pyplot as plt
-
-fig, ax = plt.subplots(figsize=(10, 10))
-pyLDAvis.enable_notebook()
-vis = pyLDAvis.gensim.prepare(lda_model, corpus=corpus_matrix, dictionary=id2word)
-vis
+### Final REsult
+[click here]:(https://drive.google.com/file/d/1xBsebFoo9QXTIBNvDCJqXvDp9qrS97zD/view?usp=sharing)
