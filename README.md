@@ -111,5 +111,5 @@ Choosing the optimal number of topics (`k`) ensures meaningful and interpretable
 
 ---
 
-### Final REsult
-[click here]:(https://drive.google.com/file/d/1xBsebFoo9QXTIBNvDCJqXvDp9qrS97zD/view?usp=sharing)
+### Final Result
+  For result, [click here to view/download the PDF](https://drive.google.com/file/d/1xBsebFoo9QXTIBNvDCJqXvDp9qrS97zD/view?usp=sharing)
