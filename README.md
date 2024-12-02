@@ -49,7 +49,7 @@ Choosing the optimal number of topics (`k`) ensures meaningful and interpretable
 
 ## Interactive LDA Visualization
 
-To view the interactive LDA visualization, [click here](C:\Users\Anil\Downloads).
+To view the interactive LDA visualization, [click here](C:\Users\Anil\Downloads\Screenshot 2024-12-02 164538.png).
 
   
 
