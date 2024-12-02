@@ -45,7 +45,9 @@ Choosing the optimal number of topics (`k`) ensures meaningful and interpretable
 
 ### Final Model Summary
 - ➢ **Perplexity**: -17.92  
-- ➢ **Coherence Score**: 0.640  
+- ➢ **Coherence Score**: 0.640
+
+  (https://drive.google.com/file/d/1RFE2Gc6D5cS_p5zfNQI52glTm3kC4MPJ/view?usp=sharing)
 
 ---
 
